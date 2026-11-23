@@ -15,8 +15,6 @@ Our projects combine **Business Intelligence, Data Analytics, Data Visualization
 
 ## What We Build
 
-<h2>What We Build</h2>
-
 <p>
   <img src="assets/magenta-dot.svg" width="9" alt="" />
   <strong>Data Products</strong><br>
