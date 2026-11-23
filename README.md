@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="assets/databv-icon.png" width="42" height="42" alt="DataBV" />
+  <img src="assets/logo.png" width="52" height="52" alt="DataBV" />
 
 </h1>
 
